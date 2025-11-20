@@ -1,0 +1,1 @@
+mvn clean verify sonar:sonar -Dsonar.projectKey=elayeboussama_test-spring-x-sonarqube -Dsonar.organization=elayeboussama -Dsonar.host.url=https://sonarcloud.io  -Dsonar.login=186e927be3516fc056b6bbfcc697f58285a8ac20
